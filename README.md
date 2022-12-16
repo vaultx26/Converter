@@ -1,2 +1,2 @@
 # Converter
-Currency converter
+Currency converter in C# language
